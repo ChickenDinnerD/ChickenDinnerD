@@ -2,7 +2,7 @@
 - 👀 I’m interested in Photo, Activity, Life
 - 🌱 I’m currently learning programing as direction on node, web, backend
 - 💞️ I’m looking to collaborate on every possibility
-- 📫 How to reach me: alexey333m@gmail.com / based in kyiv, ua
+- 📫 How to reach me: more2write1code@gmail.com / based in kyiv, ua
 
 <!---
 ChickenDinnerD/ChickenDinnerD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
